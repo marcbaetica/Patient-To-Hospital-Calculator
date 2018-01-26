@@ -1,0 +1,2 @@
+# Patient-To-Hospital-Calculator
+Uses Google's REST API to calculate the traveling distance and time of multiple individuals to given destinations using their postal codes. Final results are outputted in XLSX sheet (this repository does not contain the input data so you will have to provide your own).
